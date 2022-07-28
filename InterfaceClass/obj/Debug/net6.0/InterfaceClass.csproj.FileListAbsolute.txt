@@ -1,0 +1,15 @@
+J:\Programação C#\InterfaceClass\InterfaceClass\bin\Debug\net6.0\InterfaceClass.exe
+J:\Programação C#\InterfaceClass\InterfaceClass\bin\Debug\net6.0\InterfaceClass.deps.json
+J:\Programação C#\InterfaceClass\InterfaceClass\bin\Debug\net6.0\InterfaceClass.runtimeconfig.json
+J:\Programação C#\InterfaceClass\InterfaceClass\bin\Debug\net6.0\InterfaceClass.dll
+J:\Programação C#\InterfaceClass\InterfaceClass\bin\Debug\net6.0\InterfaceClass.pdb
+J:\Programação C#\InterfaceClass\InterfaceClass\obj\Debug\net6.0\InterfaceClass.csproj.AssemblyReference.cache
+J:\Programação C#\InterfaceClass\InterfaceClass\obj\Debug\net6.0\InterfaceClass.GeneratedMSBuildEditorConfig.editorconfig
+J:\Programação C#\InterfaceClass\InterfaceClass\obj\Debug\net6.0\InterfaceClass.AssemblyInfoInputs.cache
+J:\Programação C#\InterfaceClass\InterfaceClass\obj\Debug\net6.0\InterfaceClass.AssemblyInfo.cs
+J:\Programação C#\InterfaceClass\InterfaceClass\obj\Debug\net6.0\InterfaceClass.csproj.CoreCompileInputs.cache
+J:\Programação C#\InterfaceClass\InterfaceClass\obj\Debug\net6.0\InterfaceClass.dll
+J:\Programação C#\InterfaceClass\InterfaceClass\obj\Debug\net6.0\refint\InterfaceClass.dll
+J:\Programação C#\InterfaceClass\InterfaceClass\obj\Debug\net6.0\InterfaceClass.pdb
+J:\Programação C#\InterfaceClass\InterfaceClass\obj\Debug\net6.0\InterfaceClass.genruntimeconfig.cache
+J:\Programação C#\InterfaceClass\InterfaceClass\obj\Debug\net6.0\ref\InterfaceClass.dll
